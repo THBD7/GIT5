@@ -1,4 +1,4 @@
-# GIT5
+LOCAL
 
  .t une opération longue et risquée, car tu ne seras peut-être pas en mesure de repérer tous les changements effectués par ton collègue. Et dans un cas réel, tu peux être amené à modifier beaucoup de lignes sur un grand nombre de fichiers, et qu'il y ait non pas un, mais plusieurs autres collègues travaillant simultanément dessus. Cela devient un casse tête très rapidement.
 
